@@ -1,0 +1,11 @@
+      {
+        test: /\.(js|vue)$/,
+        use: 'eslint-loader',
+        enforce: 'pre'
+      }, 
+
+
+/* eslint-disable-next-line no-new */
+sobre new vue
+
+      en webpack-config.base
